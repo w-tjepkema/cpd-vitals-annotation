@@ -1,10 +1,6 @@
 # cpd-vitals-annotation
 Annotation tool for change points in continuous vital sign recordings.
 
-# vitals-cp-annotator
-
-Annotation tool for change points in continuous vital sign recordings.
-
 ## About
 
 This repository will contain the custom-developed annotation software used in the study:
